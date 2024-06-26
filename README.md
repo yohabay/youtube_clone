@@ -12,4 +12,4 @@ This project is a YouTube clone website developed using HTML and CSS. It feature
 - Video thumbnails with titles, views, and upload dates
 - Sidebar with categories and recommendations
 - Footer with links to About, Press, Copyright, and Contact information
-https://github.com/yohabay/youtube_web/blob/main/Screenshot%202024-06-26%20160552.png
+!https://github.com/yohabay/youtube_web/blob/main/Screenshot%202024-06-26%20160552.png
